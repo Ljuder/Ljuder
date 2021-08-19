@@ -7,4 +7,4 @@
  ☛ Contacts :<br>
     <a href="Le Marquis de Sade#4107"><img height="35" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/discord.svg">
     <a href="donatienbrillet@gmail.com"><img height="35" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/mail.svg">
-    <a href="https://raw.githubusercontent.com/Ljuder/Ljuder/main/wechat_qr_code.JPG"><img height="35" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/wechat.svg">
+    <a href="https://ljuder.github.io/wechat.html"><img height="35" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/wechat.svg">
